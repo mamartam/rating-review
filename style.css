@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input[type='radio'] {
+    appearance:none;
+}
+.options{
+    background-color: antiquewhite;
+}
+.imgg{
+    width: 75px;
+    height: 75px;
+}

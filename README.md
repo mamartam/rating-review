@@ -1,2 +1,2 @@
 # rating-review
-user put star from choose option among good, normal and bad. A smiley will appear depending on which option the user select.
+users click the button and chose their mood today.
